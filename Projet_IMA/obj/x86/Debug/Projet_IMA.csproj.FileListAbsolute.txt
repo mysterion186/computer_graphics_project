@@ -1,0 +1,9 @@
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\bin\Debug\Projet_IMA.exe
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\bin\Debug\Projet_IMA.pdb
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.AssemblyReference.cache
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.cache
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
