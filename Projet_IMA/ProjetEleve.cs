@@ -18,12 +18,15 @@ namespace Projet_IMA
             
             V3 CameraPosition = new V3(1000, -3000, 500);
 
+
             LampeDirectionnelle keyLight = new LampeDirectionnelle(new V3(1, -1, 1), new Couleur(0.8f, 0.8f, 0.8f));
             LampeDirectionnelle fillLight = new LampeDirectionnelle(new V3(-1, -1, -0.5f), new Couleur(0.2f, 0.2f, 0.2f));
+
 
             Material materialSphere1 = new Material(Couleur.Red);
             Material materialSphere2 = new Material("gold.jpg", "gold_Bump.jpg");
             Material materialSphere3 = new Material("lead.jpg", "lead_bump.jpg");
+
 
             Sphere sphere = new Sphere(new V3(250, 200, 400), 100, materialSphere1);
             sphere.DrawSphere(keyLight, fillLight, CameraPosition);
@@ -33,6 +36,7 @@ namespace Projet_IMA
 
             Sphere sphere3 = new Sphere(new V3(750, 200, 400), 100, materialSphere3);
             sphere3.DrawSphere(keyLight, fillLight, CameraPosition);
+
             //////////////////////////////////////////////////////////////////////////
             ///
             ///     Rectangle 3D  + exemple texture

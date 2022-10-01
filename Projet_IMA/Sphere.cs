@@ -19,14 +19,18 @@ namespace Projet_IMA
             material = _material;
         }
 
+
         public void DrawSphere(LampeDirectionnelle _keyLight, LampeDirectionnelle _fillLight, V3 _CameraPos)
+
         {  
             Couleur CSphere = material.couleur;
             int k = 50;
 
 
             float pas = 0.01f;
+
             for (float u = IMA.PI; u < 2 * IMA.PI; u += pas)  // echantillonage fnt paramétrique
+
                 for (float v = -IMA.PI / 2; v < IMA.PI / 2; v += pas)
                 {
 
@@ -71,7 +75,9 @@ namespace Projet_IMA
                             N = -N;
                         }
 
+
                         float coef_k = 0.004f;
+
 
                         V3 T2 = dhdu * (N ^ dmdv);
                         V3 T3 = dhdv * (dmdu ^ N);
@@ -87,6 +93,7 @@ namespace Projet_IMA
                     float produitScalaireNL = normale * _keyLight.direction; //for the keyLight
                     float produitScalaireNL2 = normale * _fillLight.direction; // for the fillLight
                     float produiScalaireRD = R * D; //for the keyLight
+
 
                     //Texture mapping 
                     Couleur cT1;
@@ -139,6 +146,7 @@ namespace Projet_IMA
                         CFillLight = CDiffus2;
 
                         CSphere = CKeyLight + CFillLight;
+
 
                     }
 
