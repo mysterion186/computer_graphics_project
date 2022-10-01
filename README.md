@@ -5,7 +5,8 @@ For now we implemented :
   - Lighting (Directional light, Ambient light, Specular and Diffuse)
   - Texture Mapping
   - Bump Mapping
+  - KeyLight + FillLight
   
 Here is an image of the project :
 
-  ![geom1](https://user-images.githubusercontent.com/91250466/192846457-c77eddd1-3eb9-4ff1-89c1-932eb99a0d36.PNG)
+![geom2](https://user-images.githubusercontent.com/91250466/193424049-c9ec8435-7d17-4184-bd51-75c99f81f0a9.png)
