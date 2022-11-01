@@ -7,7 +7,6 @@ C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj
 C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
 C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
 C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
-<<<<<<< HEAD
 C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\bin\Debug\Projet_IMA.exe.config
 C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\bin\Debug\Projet_IMA.exe
 C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\bin\Debug\Projet_IMA.pdb
@@ -19,5 +18,24 @@ C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\o
 C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
 C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
 C:\Users\kowsik\ESIEE\E5\geometrie\2022_core_proj_esiee\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
-=======
->>>>>>> 8e9a746dd51c0aab96252046d4c0e767f574e92f
+C:\Users\seyad\Music\3D-true_geometry\Projet_IMA\bin\Debug\Projet_IMA.exe.config
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\bin\Debug\Projet_IMA.exe.config
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\bin\Debug\Projet_IMA.exe
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\bin\Debug\Projet_IMA.pdb
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.AssemblyReference.cache
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.cache
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+C:\Users\ravindrj\Desktop\tmp\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\bin\Debug\Projet_IMA.exe.config
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\bin\Debug\Projet_IMA.exe
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\bin\Debug\Projet_IMA.pdb
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.AssemblyReference.cache
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.cache
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+C:\Users\ravindrj\Downloads\ESIEE_ASKAR\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb

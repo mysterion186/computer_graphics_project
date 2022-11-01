@@ -121,6 +121,15 @@ namespace Projet_IMA
             return t;
         }
 
+        public static bool isEqual(V3 a, V3 b)
+        {
+            if(a.x == b.x & a.y == b.y & a.z == b.z)
+            {
+                return true;
+            }
+            else { return false; }
+        }
+
         public static float prod_scal(V3 u, V3 v)
         {
             return u.x * v.x + u.y * v.y + u.z * v.z;

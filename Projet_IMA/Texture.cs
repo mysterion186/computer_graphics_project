@@ -18,6 +18,7 @@ namespace Projet_IMA
 
         public Couleur LireCouleur(float u, float v)
         {
+            v = -v;
             return Interpol(Largeur * u, Hauteur * v);
         }
 
