@@ -6,7 +6,8 @@ For now we implemented :
   - Texture Mapping
   - Bump Mapping
   - KeyLight + FillLight
+  -Raycasting
   
 Here is an image of the project :
 
-![geom2](https://user-images.githubusercontent.com/91250466/193424049-c9ec8435-7d17-4184-bd51-75c99f81f0a9.png)
+![geom3](https://user-images.githubusercontent.com/91250466/199303262-b940e1da-8af4-4720-808a-b1ba9b751ccc.PNG)
