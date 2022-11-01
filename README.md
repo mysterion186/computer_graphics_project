@@ -6,7 +6,7 @@ For now we implemented :
   - Texture Mapping
   - Bump Mapping
   - KeyLight + FillLight
-  -Raycasting
+  - Raycasting
   
 Here is an image of the project :
 
